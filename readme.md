@@ -9,7 +9,7 @@ This repository contains a **Voice Recorder with Waveform** implemented in three
 > **Note:** Currently, only the **React.js** implementation is available. The **ByteCraft** and **Vanilla JavaScript** versions are in progress and will be added soon. 
 
 ## 🚀 Demo  
-Try the live demo here: **[Voice Recorder with Waveform](https://your-firebase-app.web.app/)**
+Try the live demo here: **[Voice Recorder with Waveform](https://voice-recorder-with-waveform.web.app/)**
 
 ## Features
 
@@ -25,7 +25,7 @@ Each implementation has its own setup instructions. Refer to the respective fold
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/voice-recorder-with-waveform.git
+   git clone https://github.com/narsing-itkampalli/voice-recorder-with-waveform.git
    cd voice-recorder-with-waveform
    ```
 
